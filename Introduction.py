@@ -27,3 +27,4 @@ print(b)
 
 c=float(a)
 print(type(c))
+print(c)
